@@ -25,5 +25,5 @@ This project implements Role-Based Access Control (RBAC) using Spring Boot. It a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/myusername/myproject.git
-   cd myproject
+   git clone https://github.com/Parth081/Role-Based-Access-Controlt.git
+   cd Role-Based-Access-Controlt
